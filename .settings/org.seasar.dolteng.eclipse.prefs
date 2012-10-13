@@ -1,0 +1,9 @@
+#Sat Sep 22 18:08:15 JST 2012
+DaoType=S2JDBC
+DefaultResourcePath=/CallCenter/src/main/resources
+DefaultRootPackage=jo.co.sobal
+DefaultSrcPath=/CallCenter/src/main/java
+ServletPath=CallCenter
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
